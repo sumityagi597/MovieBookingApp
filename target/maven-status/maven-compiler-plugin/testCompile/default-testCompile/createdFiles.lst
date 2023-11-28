@@ -1,0 +1,6 @@
+com/cts/MovieBookingApplication/controller/MovieControllerTest.class
+com/cts/MovieBookingApplication/service/TicketServiceTest.class
+com/cts/MovieBookingApplication/security/services/UserDetailsImplTest.class
+com/cts/MovieBookingApplication/service/MovieServiceTest.class
+com/cts/MovieBookingApplication/controller/TicketControllerTest.class
+com/cts/MovieBookingApplication/MovieBookingAppApplicationTests.class
